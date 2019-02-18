@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+  padding-top: 3.5rem;
+}
+
+#p.jumbotron {
+	background:#ccf2ff url('/ds-project-2/resources/img/erasmus.png') no-repeat center center; background-size:cover;
+}
+
+#op {
+	background:	#ccf2ff;
+	opacity: 0.6;
+}
